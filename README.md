@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
+### My name is Locke, I am currently going to WSU
+
+
+### just testing something here
+![official cat lover](https://img.shields.io/badge/Official-Cat_Lover-%2300FF00)
 <!--
 **cwklocke18241/cwklocke18241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
